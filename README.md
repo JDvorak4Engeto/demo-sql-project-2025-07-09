@@ -1,1 +1,1 @@
-# demo-sql-project-2025-07-09
+# Lekce 5 - Úvod do projektu a procvičování SQL
